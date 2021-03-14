@@ -7,7 +7,7 @@ Example data science portfolio
 * Used linear regression to achieve the best model achieving a 90% accuracy score
 * Built a GUI for users to interact with using tinker
 
-![](https://github.com/Dom88Finch/DS_portfolio/blob/main/images/grade_predictor_GUI.jpg)
+![](/images/grade_predictor_GUI.jpg)
 
 # Project 2: Hospital stay prediction 
 Predicting duration of stay in hospital during this covid-19 pandemic to help with planning and ensuring there is enough hospital capacity to accommodate the patients.
