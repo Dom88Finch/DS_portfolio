@@ -94,20 +94,19 @@ Source different websites for different Stock information
 - Working with Big Data - Data warehousing using SQL, Hadoop.
 
 - Use different strategies and incorperate alternative data sources to predict stock prices.
+- Backtesting algorithms to ensure it picks stocks and produces a profit.
 
 
 Create a Website Blog/Twitter account Bot that posts weekly predictions of stock price movements for 10 highest profitable stocks movements.
 
-Aim: To be able to predict 5% stock price movement each week consistently 
+## Aim: To be able to predict 5% stock price movement each week consistently 
 
 
-
- # Backtesting algorithm to ensure it picks stocks and produces a profit.
 
  Learning objectives and software
- # Finance basics - Fundamental analysis, Technical Analysis 
- # Best investments strategies (short and long term)
- # 
+  - Finance basics - Fundamental analysis, Technical Analysis 
+  - Best investments strategies (short and long term)
+
 
 
 
