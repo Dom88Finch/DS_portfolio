@@ -28,7 +28,7 @@ Currently researching what make coupples get attracted to one another and also w
 - Age, Likes and dislikes,  Ethnicity, Similar Habits, Personality traits
 
 
-# Project 4: Classifying tweets 
+# [Project 4: Classifying tweets](https://github.com/Dom88Finch/python-programs) 
  Program that uses Machine learning to classify whether a tweet is viral or not. The program initially uses a **KClassifier** to classify and predict whether a tweet is viral. The program is then modified preprocessing the data frame again to find new potential feature data that would improve our prediction. 
  
  This involved cleaning the data using python packages. Choosing a minimum score with which to classify whether a tweet is viral or not. Chose the median to be the viral score minimum of 13 for a tweet to be classed as viral. Created new variables which hold Boolean values to act as training set for the machine learning model. I then trained my model to predict whether a tweet was viral. From this I did further investigation to improve my model by choosing different training feature data to improve the accuracy. I was able to improve it by 15%. )
