@@ -120,6 +120,9 @@ End of Month Objectives
 - ML techniques including, Data Pipelines, Data Cleaning and Transformation, 
 - ML Training Optimization skills
 
+Other skills include
+- Fundamentals of digital marketing ( use these techniques to improve traffic to 1 or 2 of your websites above)
+
 
 
 # Future projects
