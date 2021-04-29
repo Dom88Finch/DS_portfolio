@@ -59,7 +59,9 @@ Produce a Jupyter notebook with your results and findings along with future impo
 
 # Project 6.5:(Week 1)
 
-Rasberry Pi project that uses sensors and GPIO to detect.
+Rasberry Pi project that uses sensors and GPIO to detect or automate a process.
+
+- This include working with microcontrollers such as Aurdrino or Rasberry Pi 
 
 
 # Project 7:(Week 2)
