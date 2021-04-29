@@ -9,7 +9,7 @@ Example data science portfolio
 
 ![](/images/grade_predictor_GUI.jpg)
 
-# Project 2: Hospital stay prediction 
+# [Project 2: Hospital stay prediction](https://github.com/Dom88Finch/healthcare-analysis)
 Predicting duration of stay in hospital during this covid-19 pandemic to help with planning and ensuring there is enough hospital capacity to accommodate the patients.
 
 * Used feature selection techniques to identify best feasutes to include in model
