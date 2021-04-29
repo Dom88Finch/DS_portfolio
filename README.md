@@ -43,7 +43,19 @@ Currently researching what make coupples get attracted to one another and also w
 * Combine different models to create weighted voting result that allows for a probability of outcome to be computed and also the Confidence level of prediction.
  
 
-## Launch website 
+## Link a Twitter account with daily predictions automated.
+ -automate data collection input daily by webscraping input data.
+ -read file in automatically an run a script that automatically runs through 
+  - data cleaning, 
+  - adding features, 
+  - predicting using Trained model 
+  - producing output of predictions and saving these results on a text file
+ 
+ # produce 3 files
+  - predictons - Find a script that reads the text file and automatically posts the predictions online.  
+  - result/outcome - Another file that post the results of previous matches and determines whether they were correct or not.
+  - weekly prediction accuracy score - Produce a graphic picture that outputs the accuracy of all predictions for each week.
+
 
 ## MAY 2021
 
