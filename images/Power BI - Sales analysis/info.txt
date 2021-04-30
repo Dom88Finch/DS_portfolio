@@ -1,1 +1,3 @@
 
+The following are screenshots detailing a sample of my analysis of Sales data for a Global company. 
+The skills required to produce these dashboards included the use of PowerQuery, PowerPivot, DAX and Data Modelling.
