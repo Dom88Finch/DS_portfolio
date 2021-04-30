@@ -76,7 +76,7 @@ Rasberry Pi project that uses sensors and GPIO to detect or automate a process.
 - This include working with microcontrollers such as Aurdrino or Rasberry Pi 
 
 
-# Project 7:(Week 2)
+# [Project 7:(Week 2)](https://github.com/Dom88Finch/DS_portfolio/tree/main/images/Power%20BI%20-%20Sales%20analysis)
 Sales data including visualization with Power BI
 
 - Obtain sales data from company online.
@@ -84,7 +84,9 @@ Sales data including visualization with Power BI
 - Carry out statistical analysis of data and identify possible trends or area to divert resources
 
 - Create Visuals that enable the user to be able to understand user information 
-- 
+
+![](/images/Power%20BI%20-%20Sales%20analysis/profit%20alalysis.jpg)
+
 
 # Project 8:(Week 3)
 NLP analysis of Food recipes with a recommendation engine/APP/Website for recipe based on your favourite foods
