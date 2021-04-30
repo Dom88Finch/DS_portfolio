@@ -85,8 +85,10 @@ Sales data including visualization with Power BI
 
 - Create Visuals that enable the user to be able to understand user information 
 
-![](/images/Power%20BI%20-%20Sales%20analysis/profit%20alalysis.jpg)
 
+
+![](/images/Power%20BI%20-%20Sales%20analysis/profit%20alalysis.jpg)
+screenshot showing dashboad analysis of profit 
 
 # Project 8:(Week 3)
 NLP analysis of Food recipes with a recommendation engine/APP/Website for recipe based on your favourite foods
@@ -97,7 +99,7 @@ NLP basics
 
 create an interactive user interface
 
-#  Learn:  Full stack development (Django/ Flask/ Node.Js /React /HTML/CSS
+**Learn:  Full stack development (Django/ Flask/ Node.Js /React /HTML/CSS**
 
 
 # Project 9:(Week 4)
@@ -115,11 +117,9 @@ Source different websites for different Stock information
 
 Create a Website Blog/Twitter account Bot that posts weekly predictions of stock price movements for 10 highest profitable stocks movements.
 
-## Aim: To be able to predict 5% stock price movement each week consistently 
+**Aim: To be able to predict 5% stock price movement each week consistently **
 
-
-
- Learning objectives and software
+Learning objectives and software
   - Finance basics - Fundamental analysis, Technical Analysis 
   - Best investments strategies (short and long term)
 
