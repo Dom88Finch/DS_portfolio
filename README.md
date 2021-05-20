@@ -33,33 +33,20 @@ Currently researching what make coupples get attracted to one another and also w
  
  This involved cleaning the data using python packages. Choosing a minimum score with which to classify whether a tweet is viral or not. Chose the median to be the viral score minimum of 13 for a tweet to be classed as viral. Created new variables which hold Boolean values to act as training set for the machine learning model. I then trained my model to predict whether a tweet was viral. From this I did further investigation to improve my model by choosing different training feature data to improve the accuracy. I was able to improve it by 15%. )
  
-# Project 5: Football results Classifier (ongoing)
+## MAY-June 2021
 
-* Source alternative Data online and  webscrape match event data.
-* Analysing dataset to investigate potential relationships and create a wide range of new features.
-* Review of past Literature, articles and books to identify previous methods used such as ELO Rating and Expected Goals
-* Use SQL to combine and warehouse data 
-* predicting football match outcomes using a range of ML models including SVC,Logistic regression, AdaBoostingClassifier, and Neural Networks.
-* Combine different models to create weighted voting result that allows for a probability of outcome to be computed and also the Confidence level of prediction.
- 
+# [Project 6:(Week 1)](https://github.com/Dom88Finch/DS_portfolio/tree/main/images/Power%20BI%20-%20Sales%20analysis)
+Sales data including visualization with Power BI
 
-## Link a Twitter account with daily predictions automated.
- -automate data collection input daily by webscraping input data.
- -read file in automatically an run a script that automatically runs through 
-  - data cleaning, 
-  - adding features, 
-  - predicting using Trained model 
-  - producing output of predictions and saving these results on a text file
- 
- # produce 3 files
-  - predictons - Find a script that reads the text file and automatically posts the predictions online.  
-  - result/outcome - Another file that post the results of previous matches and determines whether they were correct or not.
-  - weekly prediction accuracy score - Produce a graphic picture that outputs the accuracy of all predictions for each week.
+* Obtain sales data from company online.
+* Carry out statistical analysis of data and identify possible trends or area to divert resources
+* Create Visuals that enable the user to be able to understand user information 
+
+![](/images/Power%20BI%20-%20Sales%20analysis/profit%20alalysis.jpg)
+screenshot showing dashboad analysis of profit 
 
 
-## MAY 2021
-
-# Project 6:(Week 1)
+# Project 7:(Week 2)
 Climate change 
 
 Identify an area where you can apply ML techniques to predict inneficient operational methods such as (predicting potholes on certain roads)
@@ -68,27 +55,6 @@ that would reduce impact and save money to a business and reduce emissions.
 (Find Kaggle data sources or challenges and sharpen your ML techniques) 
 Produce a Jupyter notebook with your results and findings along with future imporvements
 
-
-# Project 6.5:(Week 1)
-
-Rasberry Pi project that uses sensors and GPIO to detect or automate a process.
-
-- This include working with microcontrollers such as Aurdrino or Rasberry Pi 
-
-
-# [Project 7:(Week 2)](https://github.com/Dom88Finch/DS_portfolio/tree/main/images/Power%20BI%20-%20Sales%20analysis)
-Sales data including visualization with Power BI
-
-- Obtain sales data from company online.
-
-- Carry out statistical analysis of data and identify possible trends or area to divert resources
-
-- Create Visuals that enable the user to be able to understand user information 
-
-
-
-![](/images/Power%20BI%20-%20Sales%20analysis/profit%20alalysis.jpg)
-screenshot showing dashboad analysis of profit 
 
 # Project 8:(Week 3)
 NLP analysis of Food recipes with a recommendation engine/APP/Website for recipe based on your favourite foods
@@ -107,7 +73,6 @@ Stock market forecast AI
 
 Source different websites for different Stock information  
 - webscraping, APIs, 
-
 - Creating a Data Management system
 - Working with Big Data - Data warehousing using SQL, Hadoop.
 
@@ -117,7 +82,7 @@ Source different websites for different Stock information
 
 Create a Website Blog/Twitter account Bot that posts weekly predictions of stock price movements for 10 highest profitable stocks movements.
 
-**Aim: To be able to predict 5% stock price movement each week consistently **
+*Aim: To be able to predict 5% stock price movement each week consistently *
 
 Learning objectives and software
   - Finance basics - Fundamental analysis, Technical Analysis 
@@ -125,16 +90,15 @@ Learning objectives and software
 
 
 
-
-
-End of Month Objectives
+End of Year Objectives
 - Git, 
 - Docker, 
 - AWS or Google Cloud for training Neural Networks
-- Pyhton 
+- Pyhton Advanced
 - Neural Networks
 - ML techniques including, Data Pipelines, Data Cleaning and Transformation, 
 - ML Training Optimization skills
+- Django, APIs, React
 
 Other skills include
 - Fundamentals of digital marketing ( use these techniques to improve traffic to 1 or 2 of your websites above)
