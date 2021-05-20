@@ -56,20 +56,22 @@ that would reduce impact and save money to a business and reduce emissions.
 Produce a Jupyter notebook with your results and findings along with future imporvements
 
 
-# Project 8:(Week 3)
+# Project 8: Private Chef AI(Week 3)
 NLP analysis of Food recipes with a recommendation engine/APP/Website for recipe based on your favourite foods
+Analysing 1000s of food recipes online and be able to understand and classify the output taste profile for each dish.
+From there, we can be able to recommend dishes back to user based on their taste preferences.
 
 Technologies:
-Webscraping
-NLP basics
+* Webscraping and Database storage on SQL 
+* NLP basics
+* Data processing, training 
 
-create an interactive user interface
+create an interactive web user interface
 
 **Learn:  Full stack development (Django/ Flask/ Node.Js /React /HTML/CSS**
 
 
-# Project 9:(Week 4)
-Stock market forecast AI
+# Project 9:Stock market forecast using AI (Week 4)
 
 Source different websites for different Stock information  
 - webscraping, APIs, 
