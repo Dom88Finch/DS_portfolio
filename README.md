@@ -16,7 +16,7 @@ Predicting duration of stay in hospital during this covid-19 pandemic to help wi
 * Optimized Logistic, Random Forest using GridSearchCV to imporve model 
 * model prediction score of 0.35
 
-# Project 3: Dating website analysis 
+# [Project 3: Dating website analysis](https://github.com/Dom88Finch/Dating-Analysis)
 Analysis of OKCupid dataset to find possible relationships and indicators that may help with matching individuals together.
 
 * invlolved data cleaning and preprocessing data
