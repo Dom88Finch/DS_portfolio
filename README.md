@@ -92,7 +92,12 @@ Learning objectives and software
 
 
 
-End of Year Objectives
+
+
+
+
+
+# End of Year Objectives
 - Git, 
 - Docker, 
 - AWS or Google Cloud for training Neural Networks
