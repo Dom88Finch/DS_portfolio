@@ -1,5 +1,5 @@
 # DS_portfolio
-Example data science portfolio
+Data Science portfolio
 
 # [Project 1:Data Science Student Grade predictor: Project Overview](https://github.com/Dom88Finch/student-grade-predictor)
 
