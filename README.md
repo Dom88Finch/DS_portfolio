@@ -49,6 +49,16 @@ screenshot showing dashboad analysis of profit
 
 # Project 6:Stock market forecast using AI: (June-Aug)
 
+*Aim: To be able to predict 5% stock price movement each week consistently *
+
+Learning objectives and software
+  - Finance basics - Fundamental analysis, Technical Analysis 
+  - Best investments strategies (short and long term)
+  - Trader Psychology
+  - Systematic trading 
+  - Risk management systems
+
+
 Source different websites for different Stock information  
 - webscraping, APIs, 
 - Creating a Data Management system
@@ -60,12 +70,6 @@ Source different websites for different Stock information
 
 Create a Website Blog/Twitter account Bot that posts weekly predictions of stock price movements for 10 highest profitable stocks movements.
 
-*Aim: To be able to predict 5% stock price movement each week consistently *
-
-Learning objectives and software
-  - Finance basics - Fundamental analysis, Technical Analysis 
-  - Best investments strategies (short and long term)
-  - Trader Psychology
 
 
 
