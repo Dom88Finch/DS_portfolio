@@ -47,7 +47,7 @@ Sales data including visualization with Power BI
 screenshot showing dashboad analysis of profit 
 
 
-# Project 9:Stock market forecast using AI: (June-Aug)
+# Project 6:Stock market forecast using AI: (June-Aug)
 
 Source different websites for different Stock information  
 - webscraping, APIs, 
