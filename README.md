@@ -65,6 +65,7 @@ Create a Website Blog/Twitter account Bot that posts weekly predictions of stock
 Learning objectives and software
   - Finance basics - Fundamental analysis, Technical Analysis 
   - Best investments strategies (short and long term)
+  - Trader Psychology
 
 
 
