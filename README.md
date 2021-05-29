@@ -33,45 +33,21 @@ Currently researching what make coupples get attracted to one another and also w
  
  This involved cleaning the data using python packages. Choosing a minimum score with which to classify whether a tweet is viral or not. Chose the median to be the viral score minimum of 13 for a tweet to be classed as viral. Created new variables which hold Boolean values to act as training set for the machine learning model. I then trained my model to predict whether a tweet was viral. From this I did further investigation to improve my model by choosing different training feature data to improve the accuracy. I was able to improve it by 15%. )
  
-## MAY-June 2021
+## MAY-Sept 2021
 
-# [Project 6:(Week 1)](https://github.com/Dom88Finch/DS_portfolio/tree/main/images/Power%20BI%20-%20Sales%20analysis)
+# [Sales Analysis using Excel and Power BI :(May)](https://github.com/Dom88Finch/DS_portfolio/tree/main/images/Power%20BI%20-%20Sales%20analysis)
 Sales data including visualization with Power BI
 
 * Obtain sales data from company online.
-* Carry out statistical analysis of data and identify possible trends or area to divert resources
-* Create Visuals that enable the user to be able to understand user information 
+* Carry out statistical analysis of data and identify possible trends or area to divert resources.
+* Data modeling using DAX functions.
+* Created Visuals that enable the user to be able to answer key business questions 
 
 ![](/images/Power%20BI%20-%20Sales%20analysis/profit%20alalysis.jpg)
 screenshot showing dashboad analysis of profit 
 
 
-# Project 7:(Week 2)
-Climate change 
-
-Identify an area where you can apply ML techniques to predict inneficient operational methods such as (predicting potholes on certain roads)
-that would reduce impact and save money to a business and reduce emissions.
-
-(Find Kaggle data sources or challenges and sharpen your ML techniques) 
-Produce a Jupyter notebook with your results and findings along with future imporvements
-
-
-# Project 8: Private Chef AI(Week 3)
-NLP analysis of Food recipes with a recommendation engine/APP/Website for recipe based on your favourite foods
-Analysing 1000s of food recipes online and be able to understand and classify the output taste profile for each dish.
-From there, we can be able to recommend dishes back to user based on their taste preferences.
-
-Technologies:
-* Webscraping and Database storage on SQL 
-* NLP basics
-* Data processing, training 
-
-create an interactive web user interface
-
-**Learn:  Full stack development (Django/ Flask/ Node.Js /React /HTML/CSS**
-
-
-# Project 9:Stock market forecast using AI (Week 4)
+# Project 9:Stock market forecast using AI: (June-Aug)
 
 Source different websites for different Stock information  
 - webscraping, APIs, 
@@ -89,6 +65,35 @@ Create a Website Blog/Twitter account Bot that posts weekly predictions of stock
 Learning objectives and software
   - Finance basics - Fundamental analysis, Technical Analysis 
   - Best investments strategies (short and long term)
+
+
+
+# Project 7: (July)
+Climate change 
+
+Identify an area where you can apply ML techniques to predict inneficient operational methods such as (predicting potholes on certain roads)
+that would reduce impact and save money to a business and reduce emissions.
+
+ - Working with spatial data 
+ - 
+(Find Kaggle data sources or challenges and sharpen your ML techniques) 
+Produce a Jupyter notebook with your results and findings along with future imporvements
+
+
+# Project 8: Private Chef AI: (August)
+NLP analysis of Food recipes with a recommendation engine/APP/Website for recipe based on your favourite foods
+Analysing 1000s of food recipes online and be able to understand and classify the output taste profile for each dish.
+From there, we can be able to recommend dishes back to user based on their taste preferences.
+
+Technologies:
+* Webscraping and Database storage on SQL 
+* NLP basics
+* Data processing, training 
+
+create an interactive web user interface
+
+**Learn:  Full stack development (Django/ Flask/ Node.Js /React /HTML/CSS**
+
 
 
 
