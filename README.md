@@ -85,26 +85,3 @@ Technologies:
 create an interactive web user interface
 
 **Learn:  Full stack development (Django/ Flask/ Node.Js /React /HTML/CSS**
-
-# End of Year Objectives
-- Git, 
-- Docker, 
-- AWS or Google Cloud for training Neural Networks
-- Pyhton Advanced
-- Neural Networks
-- ML techniques including, Data Pipelines, Data Cleaning and Transformation, 
-- ML Training Optimization skills
-- Django, APIs, React
-
-Other skills include
-- Fundamentals of digital marketing ( use these techniques to improve traffic to 1 or 2 of your websites above)
-
-
-
-# Future projects
-
-**Full stack project**
- * web/ android app that enhances your language learning ability by **immersing** you in that language.
- * 
-
-
