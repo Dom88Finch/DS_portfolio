@@ -1,5 +1,4 @@
-# DS_portfolio
-Data Science portfolio
+# Data Science portfolio
 
 # [Project 1:Data Science Student Grade predictor: Project Overview](https://github.com/Dom88Finch/student-grade-predictor)
 
@@ -47,7 +46,7 @@ Sales data including visualization with Power BI
 screenshot showing dashboad analysis of profit 
 
 
-# Project 6:Stock market forecast using AI: (June-Aug)
+# Project 6:Stock market forecast using AI: (Sept- )
 
 *Aim: To be able to predict 5% stock price movement each week consistently *
 
@@ -73,19 +72,7 @@ Create a Website Blog/Twitter account Bot that posts weekly predictions of stock
 
 
 
-# Project 7: (July)
-Climate change 
-
-Identify an area where you can apply ML techniques to predict inneficient operational methods such as (predicting potholes on certain roads)
-that would reduce impact and save money to a business and reduce emissions.
-
- - Working with spatial data 
- - 
-(Find Kaggle data sources or challenges and sharpen your ML techniques) 
-Produce a Jupyter notebook with your results and findings along with future imporvements
-
-
-# Project 8: Private Chef AI: (August)
+# Project 7: Private Chef AI: 
 NLP analysis of Food recipes with a recommendation engine/APP/Website for recipe based on your favourite foods
 Analysing 1000s of food recipes online and be able to understand and classify the output taste profile for each dish.
 From there, we can be able to recommend dishes back to user based on their taste preferences.
@@ -98,14 +85,6 @@ Technologies:
 create an interactive web user interface
 
 **Learn:  Full stack development (Django/ Flask/ Node.Js /React /HTML/CSS**
-
-
-
-
-
-
-
-
 
 # End of Year Objectives
 - Git, 
