@@ -15,6 +15,32 @@ Tennis is a popular sport that’s played across the world. The web application 
 <video src="https://user-images.githubusercontent.com/57221218/230629625-dcd1bbdd-0d79-4c52-9807-68a1a4c552b9.mp4"></video>
 
 
+## 
+# [Sales Analysis using Excel and Power BI](https://github.com/Dom88Finch/DS_portfolio/tree/main/images/Power%20BI%20-%20Sales%20analysis)
+Sales data including visualization with Power BI
+
+* Obtain sales data from company online.
+* Carry out statistical analysis of data and identify possible trends or area to divert resources.
+* Data modeling using DAX functions.
+* Created Visuals that enable the user to be able to answer key business questions 
+
+![](/images/Power%20BI%20-%20Sales%20analysis/profit%20alalysis.jpg)
+screenshot showing dashboad analysis of profit 
+
+
+
+# Project 6:Alpha signal generation for equity & crypto-currency markets using AI
+
+*Aim: To be able to produce entry and exit signals for multiple assets across multiple markets with an expected return of  6-9% weekly return. This is then implemented across a fully automated risk management system that is dynamically adjusted using reinforcement learning algrorithms.  *
+
+Learning objectives and software
+  - Finance basics - Fundamental analysis, Technical Analysis 
+  - Best investments strategies (short and long term)
+  - Trader Psychology
+  - Systematic trading 
+  - Risk management systems
+
+
 
 ## other projects
 # [Project 1:Data Science Student Grade predictor: Project Overview](https://github.com/Dom88Finch/student-grade-predictor)
@@ -49,27 +75,3 @@ Currently researching what make coupples get attracted to one another and also w
  
  This involved cleaning the data using python packages. Choosing a minimum score with which to classify whether a tweet is viral or not. Chose the median to be the viral score minimum of 13 for a tweet to be classed as viral. Created new variables which hold Boolean values to act as training set for the machine learning model. I then trained my model to predict whether a tweet was viral. From this I did further investigation to improve my model by choosing different training feature data to improve the accuracy. I was able to improve it by 15%. )
  
-## 
-# [Sales Analysis using Excel and Power BI](https://github.com/Dom88Finch/DS_portfolio/tree/main/images/Power%20BI%20-%20Sales%20analysis)
-Sales data including visualization with Power BI
-
-* Obtain sales data from company online.
-* Carry out statistical analysis of data and identify possible trends or area to divert resources.
-* Data modeling using DAX functions.
-* Created Visuals that enable the user to be able to answer key business questions 
-
-![](/images/Power%20BI%20-%20Sales%20analysis/profit%20alalysis.jpg)
-screenshot showing dashboad analysis of profit 
-
-
-# Project 6:Stock market forecast using AI: (Sept- )
-
-*Aim: To be able to predict 5% stock price movement each week consistently *
-
-Learning objectives and software
-  - Finance basics - Fundamental analysis, Technical Analysis 
-  - Best investments strategies (short and long term)
-  - Trader Psychology
-  - Systematic trading 
-  - Risk management systems
-
