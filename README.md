@@ -1,12 +1,6 @@
 # Data Science portfolio
 
-# [Project 1:Data Science Student Grade predictor: Project Overview](https://github.com/Dom88Finch/student-grade-predictor)
 
-* Created a mini app that predicts the student’s grade for their Final year exam.
-* Used linear regression to achieve the best model achieving a 90% accuracy score
-* Built a GUI for users to interact with using tinker
-
-![](/images/grade_predictor_GUI.jpg)
 
 
 # [Robotic Arm Project]
@@ -14,6 +8,22 @@ ROS is a Robotic Framework used for devoloping Robots. The video below shows how
 <video src="https://user-images.githubusercontent.com/57221218/230620302-cb8a3fbf-b0f5-4b47-8143-cacc5786eb4f.mp4"></video>
 
 
+[In-play – Tennis Prediction project.]
+
+Tennis is a popular sport that’s played across the world. The web application below shows an example of how we can predict in-play match outcomes by using Ensemble Machine Learning models. The apps enables for prediction of `set winner` or `game winner` by leveraging historical event data of major tennis tornaments such as `Wimbledon`.  App is build using python libraries such as streamlit, Data Science Stack, HTML, CSS.
+
+<video src="https://user-images.githubusercontent.com/57221218/230629625-dcd1bbdd-0d79-4c52-9807-68a1a4c552b9.mp4"></video>
+
+
+
+## other projects
+# [Project 1:Data Science Student Grade predictor: Project Overview](https://github.com/Dom88Finch/student-grade-predictor)
+
+* Created a mini app that predicts the student’s grade for their Final year exam.
+* Used linear regression to achieve the best model achieving a 90% accuracy score
+* Built a GUI for users to interact with using tinker
+
+![](/images/grade_predictor_GUI.jpg)
 
 # [Project 2: Hospital stay prediction](https://github.com/Dom88Finch/healthcare-analysis)
 Predicting duration of stay in hospital during this covid-19 pandemic to help with planning and ensuring there is enough hospital capacity to accommodate the patients.
