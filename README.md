@@ -8,7 +8,11 @@
 
 ![](/images/grade_predictor_GUI.jpg)
 
-![]https://user-images.githubusercontent.com/57221218/230620302-cb8a3fbf-b0f5-4b47-8143-cacc5786eb4f.mp4
+
+# [Robotic Arm Project]
+ROS is a Robotic Framework used for devoloping Robots. The video below shows how you can use ROS framework to with RViz to control a Robotic Arm. To achieve this, we first need to code up the plan for the robotic arm movement. This enables us to control the different joints of the arm and ensure the trajectory planning is stable.
+<video src="https://user-images.githubusercontent.com/57221218/230620302-cb8a3fbf-b0f5-4b47-8143-cacc5786eb4f.mp4"></video>
+
 
 
 # [Project 2: Hospital stay prediction](https://github.com/Dom88Finch/healthcare-analysis)
@@ -35,9 +39,8 @@ Currently researching what make coupples get attracted to one another and also w
  
  This involved cleaning the data using python packages. Choosing a minimum score with which to classify whether a tweet is viral or not. Chose the median to be the viral score minimum of 13 for a tweet to be classed as viral. Created new variables which hold Boolean values to act as training set for the machine learning model. I then trained my model to predict whether a tweet was viral. From this I did further investigation to improve my model by choosing different training feature data to improve the accuracy. I was able to improve it by 15%. )
  
-## MAY-Sept 2021
-
-# [Sales Analysis using Excel and Power BI :(May)](https://github.com/Dom88Finch/DS_portfolio/tree/main/images/Power%20BI%20-%20Sales%20analysis)
+## 
+# [Sales Analysis using Excel and Power BI](https://github.com/Dom88Finch/DS_portfolio/tree/main/images/Power%20BI%20-%20Sales%20analysis)
 Sales data including visualization with Power BI
 
 * Obtain sales data from company online.
