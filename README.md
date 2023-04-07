@@ -29,7 +29,7 @@ screenshot showing dashboad analysis of profit
 
 
 
-# Project 6:Alpha signal generation for equity & crypto-currency markets using AI
+# Project X :Alpha signal generation for equity & crypto-currency markets using AI
 
 *Aim: To be able to produce entry and exit signals for multiple assets across multiple markets with an expected return of  6-9% weekly return. This is then implemented across a fully automated risk management system that is dynamically adjusted using reinforcement learning algrorithms.  *
 
