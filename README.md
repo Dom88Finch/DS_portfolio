@@ -11,8 +11,7 @@ ROS is a Robotic Framework used for devoloping Robots. The video below shows how
 <source  type="video/mp4">
 </video> -->
 <video controls="" width="800" height="500" muted="" loop="" autoplay="">
-<source src="https://github.com/Dom88Finch/DS_portfolio/blob/main/images/our_robotic_arm_v4_compressed.mp4" type="video/mp4">
-</video>
+<source src="https://github.com/Dom88Finch/DS_portfolio/blob/main/images/our_robotic_arm_v4_compressed.mp4" type="video/mp4"></video>
 
 # [In-play – Tennis Prediction project.]
 
