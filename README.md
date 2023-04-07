@@ -7,16 +7,21 @@
 ROS is a Robotic Framework used for devoloping Robots. The video below shows how you can use ROS framework to with RViz to control a Robotic Arm. To achieve this, we first need to code up the plan for the robotic arm movement. This enables us to control the different joints of the arm and ensure the trajectory planning is stable.
 <video src="https://user-images.githubusercontent.com/57221218/230620302-cb8a3fbf-b0f5-4b47-8143-cacc5786eb4f.mp4"></video>
 
+<video controls="" width="800" height="500" muted="" loop="" autoplay="">
+<source src="https://github.com/Dom88Finch/DS_portfolio/blob/main/images/our_robotic_arm_v4_compressed.mp4" type="video/mp4"></video>
+
 
 # [In-play – Tennis Prediction project.]
 
 Tennis is a popular sport that’s played across the world. The web application below shows an example of how we can predict in-play match outcomes by using Ensemble Machine Learning models. The apps enables for prediction of `set winner` or `game winner` by leveraging historical event data of major tennis tornaments such as `Wimbledon`.  App is build using python libraries such as streamlit, Data Science Stack, HTML, CSS.
 
-<!-- <video src="https://user-images.githubusercontent.com/57221218/230629625-dcd1bbdd-0d79-4c52-9807-68a1a4c552b9.mp4"></video> -->
+<video src="https://user-images.githubusercontent.com/57221218/230629625-dcd1bbdd-0d79-4c52-9807-68a1a4c552b9.mp4"></video>
 
 <video controls="" width="800" height="500" muted="" loop="" autoplay="">
-<source src="https://github.com/Dom88Finch/DS_portfolio/blob/main/images/our_robotic_arm_v4_compressed.mp4" type="video/mp4">
-</video>
+<source src="https://github.com/Dom88Finch/DS_portfolio/blob/main/images/tennis_prediction.mp4" type="video/mp4"></video>
+
+
+
 ## 
 # [Sales Analysis using Excel and Power BI](https://github.com/Dom88Finch/DS_portfolio/tree/main/images/Power%20BI%20-%20Sales%20analysis)
 Sales data including visualization with Power BI
