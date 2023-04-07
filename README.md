@@ -8,6 +8,9 @@
 
 ![](/images/grade_predictor_GUI.jpg)
 
+![]https://user-images.githubusercontent.com/57221218/230620302-cb8a3fbf-b0f5-4b47-8143-cacc5786eb4f.mp4
+
+
 # [Project 2: Hospital stay prediction](https://github.com/Dom88Finch/healthcare-analysis)
 Predicting duration of stay in hospital during this covid-19 pandemic to help with planning and ensuring there is enough hospital capacity to accommodate the patients.
 
