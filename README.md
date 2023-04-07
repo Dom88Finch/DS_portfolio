@@ -15,7 +15,7 @@ Tennis is a popular sport that’s played across the world. The web application 
 <!-- <video src="https://user-images.githubusercontent.com/57221218/230629625-dcd1bbdd-0d79-4c52-9807-68a1a4c552b9.mp4"></video> -->
 
 <video controls="" width="800" height="500" muted="" loop="" autoplay="">
-<source src="https://user-images.githubusercontent.com/57221218/230629625-dcd1bbdd-0d79-4c52-9807-68a1a4c552b9.mp4" type="video/mp4">
+<source src="https://github.com/Dom88Finch/DS_portfolio/blob/main/images/our_robotic_arm_v4_compressed.mp4" type="video/mp4">
 </video>
 ## 
 # [Sales Analysis using Excel and Power BI](https://github.com/Dom88Finch/DS_portfolio/tree/main/images/Power%20BI%20-%20Sales%20analysis)
