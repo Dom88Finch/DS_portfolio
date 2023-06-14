@@ -4,14 +4,22 @@
 # [Robotic Arm Project](https://github.com/Dom88Finch/AdvancedRobotics)
 ROS is a Robotic Framework used for devoloping Robots. The video below shows how you can use ROS framework to with RViz to control a Robotic Arm. To achieve this, we first need to code up the plan for the robotic arm movement. This enables us to control the different joints of the arm and ensure the trajectory planning is stable.
 
-<video src="https://user-images.githubusercontent.com/57221218/230620302-cb8a3fbf-b0f5-4b47-8143-cacc5786eb4f.mp4"></video>
+<!-- <video src="https://user-images.githubusercontent.com/57221218/230620302-cb8a3fbf-b0f5-4b47-8143-cacc5786eb4f.mp4"></video> -->
+
+
+https://github.com/Dom88Finch/DS_portfolio/assets/57221218/218b6d97-337e-4688-be51-f55d6a627f3f
 
 
 # In-play – Tennis Prediction project
 
 Tennis is a popular sport that’s played across the world. The web application below shows an example of how we can predict in-play match outcomes by using Ensemble Machine Learning models. The apps enables for prediction of `set winner` or `game winner` by leveraging historical event data of major tennis tornaments such as `Wimbledon`.  App is build using python libraries such as streamlit, Data Science Stack, HTML, CSS.
 
-<video src="https://user-images.githubusercontent.com/57221218/230629625-dcd1bbdd-0d79-4c52-9807-68a1a4c552b9.mp4"></video>
+<!-- <video src="https://user-images.githubusercontent.com/57221218/230629625-dcd1bbdd-0d79-4c52-9807-68a1a4c552b9.mp4"></video> -->
+
+
+https://github.com/Dom88Finch/DS_portfolio/assets/57221218/d7b133b0-954d-4e4e-9ff4-1e588cbd0205
+
+
 
 # [DL Audio: Vowel & Gender classification using Multi-Task Deep Learning Architecture](https://github.com/Dom88Finch/Vowel_audio_classifier)
 Multi-Task Convolutional Neural Network used to classify audio for vowel and gender. The repository contains a detailed analysis report of several different neural network architectures.
